@@ -98,25 +98,12 @@ Comprehensive scoring system based on:
    ```bash
    npm install
    ```
-3. Configure environment variables:
-   ```bash
-   NEXT_PUBLIC_WEATHER_API_KEY=your_key
+
    ```
 4. Start development server:
    ```bash
    npm run dev
    ```
-
-## Testing Procedures
-### Unit Tests
-```bash
-npm run test
-```
-
-### End-to-End Tests
-```bash
-npm run test:e2e
-```
 
 ## Future Enhancements
 1. Backend Integration
@@ -134,19 +121,6 @@ npm run test:e2e
    - Carbon footprint tracking
    - Biodiversity metrics
    - Water conservation analytics
-
-## Team Information
-### Team Members
-- Lead Developer: [Name]
-- UI/UX Designer: [Name]
-- Documentation: [Name]
-- Testing: [Name]
-
-### Development Timeline
-- Project Start: [Date]
-- Phase 1 Completion: [Date]
-- Testing Phase: [Date]
-- Final Deployment: [Date]
 
 ## References
 1. React Documentation

@@ -152,11 +152,6 @@ npm run test:e2e
 1. React Documentation
 2. TypeScript Handbook
 3. Open-Meteo API Documentation
-4. Sustainable Farming Practices Guide
+4. [Sustainable Agriculture Institute's Sustainable Performance Assesment Guidelines] (https://saiplatform.org/uploads/Modules/Library/spa-guidelines-2.0_saiplatform.pdf)
 
-## Support
-For technical support or feature requests:
-- Email: support@farmdashboard.com
-- GitHub Issues: [Repository Issues]
-- Documentation Wiki: [Wiki Link]
 </div>

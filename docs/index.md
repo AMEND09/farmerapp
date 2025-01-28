@@ -59,8 +59,6 @@ A comprehensive farm management solution designed to help farmers track and opti
 src/
 ├── artifacts/
 │   ├── default.tsx        # Main application component
-│   ├── documentation.md   # Project documentation
-│   └── declarations.d.ts  # TypeScript declarations
 ├── components/
 │   └── ui/               # Reusable UI components
 ├── styles/

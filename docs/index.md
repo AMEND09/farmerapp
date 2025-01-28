@@ -150,8 +150,9 @@ npm run test:e2e
 
 ## References
 1. React Documentation
-2. TypeScript Handbook
-3. Open-Meteo API Documentation
-4. [Sustainable Agriculture Institute's Sustainable Performance Assessment Guidelines](https://saiplatform.org/uploads/Modules/Library/spa-guidelines-2.0_saiplatform.pdf)
+2. Vite Documentation
+3. TypeScript Handbook
+4. Open-Meteo API Documentation
+5. [Sustainable Agriculture Institute's Sustainable Performance Assessment Guidelines](https://saiplatform.org/uploads/Modules/Library/spa-guidelines-2.0_saiplatform.pdf)
 
 </div>

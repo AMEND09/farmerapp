@@ -34,7 +34,6 @@ A comprehensive farm management solution designed to help farmers track and opti
 
 ## Development Process
 ### 1. Planning Phase
-- Identified farmer needs through interviews
 - Created wireframes and mockups
 - Developed sustainability scoring algorithms
 - Planned data structure and state management

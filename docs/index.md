@@ -152,6 +152,6 @@ npm run test:e2e
 1. React Documentation
 2. TypeScript Handbook
 3. Open-Meteo API Documentation
-4. [Sustainable Agriculture Institute's Sustainable Performance Assesment Guidelines] (https://saiplatform.org/uploads/Modules/Library/spa-guidelines-2.0_saiplatform.pdf)
+4. [Sustainable Agriculture Institute's Sustainable Performance Assessment Guidelines](https://saiplatform.org/uploads/Modules/Library/spa-guidelines-2.0_saiplatform.pdf)
 
 </div>

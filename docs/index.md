@@ -94,10 +94,8 @@ Comprehensive scoring system based on:
 2. Install dependencies:
    ```bash
    npm install
-   ```
 
-   ```
-4. Start development server:
+3. Start development server:
    ```bash
    npm run dev
    ```
